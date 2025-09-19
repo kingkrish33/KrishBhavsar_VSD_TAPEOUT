@@ -41,10 +41,12 @@ GTKWave is a **waveform viewer** that visualizes simulation outputs from `.vcd` 
 * **Role in Flow:** Debugging and waveform inspection.
 * **Features:** zooming, signal grouping, cursor-based measurement, and hierarchical viewing.
 * **Use Case:** Essential for confirming functional correctness and validating timing behavior.
-- ![Image](https://github.com/kingkrish33/KrishBhavsar_VSD_TAPEOUT/blob/main/DAY0-0.png?raw=true)
+- ![Image](DAY0-0.png)
 - ![Image](DAY0-1.png)
-- ![Image]()
-- ![Image]()
+- ![Image](DAY0-2.png)
+- ![Image](DAY0-3.png)
+- ![Image](DAY0-4.png)
+- ![Image](DAY0-5.png)
 
 ---
 
